@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UBeacon</string>
+
+    <string name="topInfo">Welcome to Ubeacon Scanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="declear">離開</string>
+</resources>
